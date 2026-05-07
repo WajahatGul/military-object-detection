@@ -1,0 +1,12 @@
+*.pt 
+*.jpg 
+*.jpeg 
+*.png 
+*.mp4 
+*.avi 
+*.mov 
+runs/ 
+military_object_dataset/train/ 
+military_object_dataset/val/ 
+military_object_dataset/test/ 
+__pycache__/
